@@ -7,6 +7,8 @@ Currently optimizing for Laravel Framework.
 
 This is __NOT__ for Amazon Web Services (AWS) - Cloud Computing Services.
 
+### Added MWSAuthToken support
+
 ## Installation
 
 1. `composer require peron/laravel5-amazon-mws`
