@@ -7,7 +7,7 @@ return [
 			'marketplaceId' => '',
 			'keyId' => '',
 			'secretKey' => '',
-            'authToken' => '',
+                        'authToken' => '',
 			'amazonServiceUrl' => 'https://mws-eu.amazonservices.com/',
 		]
 	],
